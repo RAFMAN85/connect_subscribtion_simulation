@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/connect_subscribtion_simulation.dir/main.cpp.o CMakeFiles/connect_subscribtion_simulation.dir/data.cpp.o CMakeFiles/connect_subscribtion_simulation.dir/client.cpp.o CMakeFiles/connect_subscribtion_simulation.dir/info_codes.cpp.o CMakeFiles/connect_subscribtion_simulation.dir/strategy.cpp.o -o connect_subscribtion_simulation 

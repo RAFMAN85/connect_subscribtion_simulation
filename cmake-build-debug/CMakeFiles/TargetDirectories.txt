@@ -1,0 +1,3 @@
+/home/rafman/clion_remote/connect_subscribtion_simulation/cmake-build-debug/CMakeFiles/connect_subscribtion_simulation.dir
+/home/rafman/clion_remote/connect_subscribtion_simulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rafman/clion_remote/connect_subscribtion_simulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
